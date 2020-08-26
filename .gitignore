@@ -5,4 +5,4 @@ CMakeLists.txt
 .idea
 .vs
 
-/odbc-test/
+projects/odbc_test/
