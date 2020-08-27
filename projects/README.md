@@ -9,4 +9,7 @@
 - [pass_array_to_function：C语言数组作为函数的参数](https://github.com/ChenYikunReal/c_training/tree/master/projects/pass_array_to_function)
 - [function_return_array：C语言函数返回数组](https://github.com/ChenYikunReal/c_training/tree/master/projects/function_return_array)
 - [pointer_to_array：C语言指针指向数组](https://github.com/ChenYikunReal/c_training/tree/master/projects/pointer_to_array)
+- [enum_test：C语言枚举测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/enum_test)
+- [enum_switch_test：C语言switch语句枚举测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/enum_switch_test)
+- [int_to_enum：C语言整数转枚举测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/int_to_enum)
 
