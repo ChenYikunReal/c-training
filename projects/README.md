@@ -12,4 +12,6 @@
 - [enum_test：C语言枚举测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/enum_test)
 - [enum_switch_test：C语言switch语句枚举测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/enum_switch_test)
 - [int_to_enum：C语言整数转枚举测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/int_to_enum)
+- [pointer_test：C语言指针测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/pointer_test)
+- [no_pointer_test：C语言空指针测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/no_pointer_test)
 
