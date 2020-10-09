@@ -1,4 +1,4 @@
-# C语言入门训练
+# C语言学习记录
 
 ![在这里插入图片描述](https://github.com/ChenYikunReal/c_training/blob/master/images/c-lang.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
 
@@ -72,5 +72,7 @@
 
 ## 更多资源
 - [Linux服务器C编程体验](https://www.tutorialspoint.com/compile_c_online.php)
-- [C语言标准库使用简介](https://www.runoob.com/cprogramming/c-standard-library.html)
-- [C语言更多小实例](https://www.runoob.com/cprogramming/c-examples.html)
+
+## C语言札记
+1. 输出双精度浮点数格式：`%lf`。
+
