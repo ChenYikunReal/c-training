@@ -58,3 +58,13 @@
 56. [edom_and_erange：C语言EDOM和ERANGE的使用](https://github.com/ChenYikunReal/c_training/tree/master/projects/edom_and_erange)
 57. [float_const：C语言<float.h>常量测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/float_const)
 58. [types_limit：C语言<limits.h>常量测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/types_limit)
+59. [pointer_pass_array：C语言指针遍历数组测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/pointer_pass_array)
+60. [setlocale_test：C语言setlocale()测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/setlocale_test)
+61. [stdlib_test：C语言<stdlib.h>库测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/stdlib_test)
+62. [string_lib_test：C语言<string.h>库测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/string_lib_test)
+63. [time_test：C语言<time.h>库测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/time_test)
+64. [difftime_test：C语言difftime()测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/difftime_test)
+65. [clock_test：C语言clock()测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/clock_test)
+66. [qsort_test：C语言qsort()函数测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/qsort_test)
+67. [bsearch_test：C语言bsearch()测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/bsearch_test)
+
