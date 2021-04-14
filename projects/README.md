@@ -70,3 +70,4 @@
 68. [void_pointer：C语言void*测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/void_pointer)
 69. [complex_test：C语言复数使用测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/complex_test)
 70. [c_use_assemble：C语言调用汇编语言测试](https://github.com/ChenYikunReal/c_training/tree/master/projects/c_use_assemble)
+71. [enum-move：C语言枚举模拟位置移动](https://github.com/ChenYikunReal/c_training/tree/master/projects/enum-move)
