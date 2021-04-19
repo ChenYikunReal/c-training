@@ -4,9 +4,9 @@
 
 
 ## 项目结构
-- [电子书](https://github.com/ChenYikunReal/c_training/tree/master/e-books)
-- [PPT](https://github.com/ChenYikunReal/c_training/tree/master/ppt)
-- [练习源码](https://github.com/ChenYikunReal/c_training/tree/master/projects)
+- [电子书](e-books)
+- [PPT](ppt)
+- [练习源码](projects)
 
 ## 形参与实参再辨
 - 实参可以是变量，变量与表达式
